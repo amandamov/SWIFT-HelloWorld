@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Support-GitHub-HelloWorld
+//  soporte-github-helloWorld-amandamov
 //
-//  Created by Ignasi Perez-Valls on 10/7/23.
+//  Created by De Oliveira Vasconcelos Amanda Maria on 10/7/23.
 //
 
 import UIKit
